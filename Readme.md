@@ -8,5 +8,4 @@
 
 ##### Purpose:
     Query for something and returns results based on query
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/openai/teach-you-anything)
+### Check out the live app [here](https://priyanka23-brs.github.io/Teach-you-anything-AI/)
